@@ -1,7 +1,7 @@
 # Dogecoin Spaces Swear Jar 🐕💸🚀
 
-Every standard curse in Doge Spaces = **exactly 3 DOGE** to the jar.  
-Keep it chaotic, keep it fun, keep it funded.
+Every common curse in our Doge Spaces = **exactly 3 DOGE** to the jar.  
+One warning per person.
 
 ## Rules
 - **Penalty**: Flat **3 DOGE** per curse.
