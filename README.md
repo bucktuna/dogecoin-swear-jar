@@ -3,17 +3,22 @@
 Every common curse in our Doge Spaces = **exactly 3 DOGE** to the jar.  
 One warning per person.
 
+
 ## Rules
-- **Penalty**: Flat **3 DOGE** per curse.
-- **Standard curses that count** (common ones only):
-  - fuck / fucking / fucked / etc.
-  - shit / shitty
-  - damn / dammit / goddamn
-  - ass / asshole / dumbass
-  - bitch
-  - bastard
-  - hell (in angry context, e.g., "what the hell")
-  - piss / pissed (off)
+
+- **Penalty**: Flat **3 DOGE** per curse (no tiers).
+
+### Standard curses that count
+<details>
+<summary>Click to view list (spoiler: contains profanity)</summary>
+
+- fuck / fucking / fucked / etc.
+- shit / shitty
+- damn / dammit / goddamn
+- ass / asshole / dumbass
+- bitch
+- bastard
+- hell (in angry context, e.g., "what the hell")
  
 
 ## How to Pay
